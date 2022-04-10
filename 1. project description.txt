@@ -1,0 +1,14 @@
+POWER BI : KEVIN COOKIES COMPANY PERFORMANCE REPORT (DATA SET ON SALES PERFORMANCE OF SEVERAL TYPES OF COOKIES):
+March 2022
+https://www.youtube.com/channel/UCfJT_eYDTmDE-ovKaxVE1ig
+Data modeling, data transformations, visualization, and power queries.
+
+1. kevin cookie company financials :
+the data about kevin cookies selling performance in 2 format cvs and xlsx
+2. kevin cookie company performance report (pbix):
+after reading, transforming, cleaning and making some simple visualisation
+3. kevin cookie company performance report (pdf):
+just in case you dont have power bi, i exported my work into pdf, only the visualisation part, the data only in pbix format
+4. power query kevin cookies company:
+ connect, extract, transform
+
